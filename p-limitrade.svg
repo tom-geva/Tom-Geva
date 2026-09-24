@@ -1,8 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="76" viewBox="0 0 900 76" role="img" aria-label="Limitrade - Market data for Roblox limiteds" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="92" viewBox="0 0 900 92" role="img" aria-label="Limitrade - Market data for Roblox limiteds" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif">
 <title>Limitrade - Market data for Roblox limiteds</title>
-
-<rect x=".5" y=".5" width="899" height="63" rx="12" fill="#FFFFFF" stroke="#E4E8F0"/>
-<text x="28" y="38" font-size="16.5" font-weight="600" fill="#0E1A33">Limitrade</text>
-<text x="220" y="37" font-size="15" fill="#4A5670">Market data for Roblox limiteds</text>
-<text x="872" y="37" text-anchor="end" font-size="14.5" fill="#8A94A8">In development</text>
+<rect x=".5" y=".5" width="899" height="79" rx="12" fill="#FFFFFF" stroke="#E6E8EE"/><rect x="20" y="18" width="44" height="44" rx="10" fill="#FEF1E7"/><g transform="translate(31 29) scale(0.9166666666666666)" fill="none" stroke="#E0600F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 7h6v6" />
+  <path d="m22 7-8.5 8.5-5-5L2 17" /></g><text x="82" y="36" font-size="16.5" font-weight="600" fill="#111827">Limitrade<tspan dx="12" font-size="11" fill="#E0600F" dy="-1.5">●</tspan><tspan dx="5" dy="1.5" font-size="12.5" font-weight="600" fill="#E0600F">In development</tspan></text><text x="82" y="58" font-size="14.5" fill="#4B5563">Market data for Roblox limiteds</text>
 </svg>

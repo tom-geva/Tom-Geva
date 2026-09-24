@@ -1,8 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="76" viewBox="0 0 900 76" role="img" aria-label="Whodis - Make sure no one is on your computer" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="92" viewBox="0 0 900 92" role="img" aria-label="Whodis - Make sure no one is on your computer" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif">
 <title>Whodis - Make sure no one is on your computer</title>
-
-<rect x=".5" y=".5" width="899" height="63" rx="12" fill="#FFFFFF" stroke="#E4E8F0"/>
-<text x="28" y="38" font-size="16.5" font-weight="600" fill="#0E1A33">Whodis</text>
-<text x="220" y="37" font-size="15" fill="#4A5670">Make sure no one is on your computer</text>
-<text x="872" y="37" text-anchor="end" font-size="14.5" fill="#8A94A8"></text>
+<rect x=".5" y=".5" width="899" height="79" rx="12" fill="#FFFFFF" stroke="#E6E8EE"/><rect x="20" y="18" width="44" height="44" rx="10" fill="#FEF1E7"/><g transform="translate(31 29) scale(0.9166666666666666)" fill="none" stroke="#E0600F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7V5a2 2 0 0 1 2-2h2" />
+  <path d="M17 3h2a2 2 0 0 1 2 2v2" />
+  <path d="M21 17v2a2 2 0 0 1-2 2h-2" />
+  <path d="M7 21H5a2 2 0 0 1-2-2v-2" />
+  <circle cx="12" cy="12" r="1" />
+  <path d="M18.944 12.33a1 1 0 0 0 0-.66 7.5 7.5 0 0 0-13.888 0 1 1 0 0 0 0 .66 7.5 7.5 0 0 0 13.888 0" /></g><text x="82" y="36" font-size="16.5" font-weight="600" fill="#111827">Whodis</text><text x="82" y="58" font-size="14.5" fill="#4B5563">Make sure no one is on your computer</text>
 </svg>
