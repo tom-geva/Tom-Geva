@@ -2,7 +2,7 @@
 <title>Stack - What I build with</title>
 
 <text x="2" y="28" font-size="14" font-weight="600" fill="#8A94A6">01</text>
-<text x="30" y="28" font-size="21" font-weight="600" fill="#E0600F">Stack</text>
+<text x="30" y="28" font-size="21" font-weight="600" fill="#E57A2C">Stack</text>
 <text x="898" y="28" text-anchor="end" font-size="14" fill="#8A94A6">What I build with</text>
 <line x1="2" y1="41" x2="898" y2="41" stroke="#8A94A6" stroke-opacity=".35"/>
 </svg>
