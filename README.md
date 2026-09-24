@@ -1,5 +1,5 @@
 <p>
-  <img src="./hero.svg" width="100%" alt="Tom Geva - Full-stack developer and gamer" />
+  <img src="./hero.svg" width="100%" alt="Tom Geva - Full-stack developer" />
 </p>
 
 <br />
